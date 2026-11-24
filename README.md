@@ -21,4 +21,4 @@ I study Electronics & Communication Engineering (Advanced Communication Technolo
 - **DeLTA deep learning training, IIIT Allahabad, June 2026.** Fine-tuned a pretrained Vision Transformer in PyTorch for real/fake image classification. [Capstone repository](https://github.com/DivyanBabbar/deepfake_detector)
 - **Numerical methods.** Co-authored a comparative study with Saket Saxena on finite differences and physics-informed neural networks for a second-order boundary value problem.
 
-Another small project is my rule-based FastAPI Q&A service with dictionary lookup and session memory. [Q&A Helper](https://github.com/DivyanBabbar/Agentic-AI-Q-A-Helper)
+My Agentic Q&A Helper exposes a FastAPI chat endpoint, uses a tool to look up facts and keeps conversation history by session. [Q&A Helper](https://github.com/DivyanBabbar/Agentic-AI-Q-A-Helper)
