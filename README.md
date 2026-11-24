@@ -17,7 +17,7 @@ I study Electronics & Communication Engineering (Advanced Communication Technolo
 
 ## Experience and research
 
-- **Eleven Tech Studio Private Limited, May–July 2026.** Completed an internship in the IT department.
+- **Eleven Tech Studio Private Limited, May–July 2026.** AI / Software Intern. I contributed to a multilingual Gemini Live and LiveKit voice agent and implemented its FastAPI token service. [AI Voice Assistant project repository](https://github.com/DivyanBabbar/AI-Voice-Assistant)
 - **DeLTA deep learning training, IIIT Allahabad, June 2026.** Fine-tuned a pretrained Vision Transformer in PyTorch for real/fake image classification. [Capstone repository](https://github.com/DivyanBabbar/deepfake_detector)
 - **Numerical methods.** Co-authored a comparative study with Saket Saxena on finite differences and physics-informed neural networks for a second-order boundary value problem.
 
